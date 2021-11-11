@@ -4,9 +4,9 @@ Visual overview of Kickstarter data
 
 # 💸 Vendas
 ![dashboard-vendas](https://user-images.githubusercontent.com/64336716/141243545-792665d4-5547-4ede-a0ec-b542569f4e86.png)
-Visual overview of sales data from fictitious company 
+Visual overview of sales data from a fictitious company 
 
 # 💵 Sales
 ![dashboard-sales](https://user-images.githubusercontent.com/64336716/141246666-972cb9f2-ca85-499c-a0b0-7bea05377d04.png)
-Visual overview of sales data from fictitious company 
+Visual overview of sales data from a fictitious company 
 
